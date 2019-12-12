@@ -11,20 +11,20 @@
 DevScaleUtil.prototype = {
     initialize: function() {
     },
-	//updated comment
+	// comment added
     type: 'DevScaleUtil'
 };]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>michael.thompson</sys_created_by>
         <sys_created_on>2019-12-12 02:34:40</sys_created_on>
         <sys_id>9b4541abdb218010e687f6c5ae9619fa</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>DevScaleUtil</sys_name>
         <sys_package display_value="Dev-Scale" source="x_aah_dev_scale">2c05096bdb218010e687f6c5ae9619ad</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="Dev-Scale">2c05096bdb218010e687f6c5ae9619ad</sys_scope>
         <sys_update_name>sys_script_include_9b4541abdb218010e687f6c5ae9619fa</sys_update_name>
         <sys_updated_by>michael.thompson</sys_updated_by>
-        <sys_updated_on>2019-12-12 04:09:39</sys_updated_on>
+        <sys_updated_on>2019-12-12 04:18:11</sys_updated_on>
     </sys_script_include>
 </record_update>
